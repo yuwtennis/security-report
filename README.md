@@ -7,5 +7,4 @@ Security report provided by [EDINET](https://disclosure2.edinet-fsa.go.jp/WEEK00
 start to answer to my question since it includes information about the labor cost.
 
 ## Audiences
-
 Feel free to look around. You might find some intuition.
